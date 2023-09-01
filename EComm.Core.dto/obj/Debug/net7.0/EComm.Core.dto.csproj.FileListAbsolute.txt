@@ -1,0 +1,11 @@
+C:\Users\kanmishra\OneDrive - Microsoft\Training\ECommerce\EComm.Core.dto\bin\Debug\net7.0\EComm.Core.dto.deps.json
+C:\Users\kanmishra\OneDrive - Microsoft\Training\ECommerce\EComm.Core.dto\bin\Debug\net7.0\EComm.Core.dto.dll
+C:\Users\kanmishra\OneDrive - Microsoft\Training\ECommerce\EComm.Core.dto\bin\Debug\net7.0\EComm.Core.dto.pdb
+C:\Users\kanmishra\OneDrive - Microsoft\Training\ECommerce\EComm.Core.dto\obj\Debug\net7.0\EComm.Core.dto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kanmishra\OneDrive - Microsoft\Training\ECommerce\EComm.Core.dto\obj\Debug\net7.0\EComm.Core.dto.AssemblyInfoInputs.cache
+C:\Users\kanmishra\OneDrive - Microsoft\Training\ECommerce\EComm.Core.dto\obj\Debug\net7.0\EComm.Core.dto.AssemblyInfo.cs
+C:\Users\kanmishra\OneDrive - Microsoft\Training\ECommerce\EComm.Core.dto\obj\Debug\net7.0\EComm.Core.dto.csproj.CoreCompileInputs.cache
+C:\Users\kanmishra\OneDrive - Microsoft\Training\ECommerce\EComm.Core.dto\obj\Debug\net7.0\EComm.Core.dto.dll
+C:\Users\kanmishra\OneDrive - Microsoft\Training\ECommerce\EComm.Core.dto\obj\Debug\net7.0\refint\EComm.Core.dto.dll
+C:\Users\kanmishra\OneDrive - Microsoft\Training\ECommerce\EComm.Core.dto\obj\Debug\net7.0\EComm.Core.dto.pdb
+C:\Users\kanmishra\OneDrive - Microsoft\Training\ECommerce\EComm.Core.dto\obj\Debug\net7.0\ref\EComm.Core.dto.dll
