@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "F0zeXUbJzuJX43v67LU3LN/iB9GxJyaPGjOx01Hue2o=",
+  "Source": "EComm.Service.API",
+  "BasePath": "_content/EComm.Service.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
