@@ -1,0 +1,14 @@
+C:\Users\kanmishra\OneDrive - Microsoft\Training\ECommerce\Ecomm.Service.Domain\bin\Debug\net7.0\Ecomm.Service.Domain.deps.json
+C:\Users\kanmishra\OneDrive - Microsoft\Training\ECommerce\Ecomm.Service.Domain\bin\Debug\net7.0\Ecomm.Service.Domain.dll
+C:\Users\kanmishra\OneDrive - Microsoft\Training\ECommerce\Ecomm.Service.Domain\bin\Debug\net7.0\Ecomm.Service.Domain.pdb
+C:\Users\kanmishra\OneDrive - Microsoft\Training\ECommerce\Ecomm.Service.Domain\obj\Debug\net7.0\Ecomm.Service.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kanmishra\OneDrive - Microsoft\Training\ECommerce\Ecomm.Service.Domain\obj\Debug\net7.0\Ecomm.Service.Domain.AssemblyInfoInputs.cache
+C:\Users\kanmishra\OneDrive - Microsoft\Training\ECommerce\Ecomm.Service.Domain\obj\Debug\net7.0\Ecomm.Service.Domain.AssemblyInfo.cs
+C:\Users\kanmishra\OneDrive - Microsoft\Training\ECommerce\Ecomm.Service.Domain\obj\Debug\net7.0\Ecomm.Service.Domain.csproj.CoreCompileInputs.cache
+C:\Users\kanmishra\OneDrive - Microsoft\Training\ECommerce\Ecomm.Service.Domain\obj\Debug\net7.0\Ecomm.Service.Domain.dll
+C:\Users\kanmishra\OneDrive - Microsoft\Training\ECommerce\Ecomm.Service.Domain\obj\Debug\net7.0\refint\Ecomm.Service.Domain.dll
+C:\Users\kanmishra\OneDrive - Microsoft\Training\ECommerce\Ecomm.Service.Domain\obj\Debug\net7.0\Ecomm.Service.Domain.pdb
+C:\Users\kanmishra\OneDrive - Microsoft\Training\ECommerce\Ecomm.Service.Domain\obj\Debug\net7.0\ref\Ecomm.Service.Domain.dll
+C:\Users\kanmishra\OneDrive - Microsoft\Training\ECommerce\Ecomm.Service.Domain\bin\Debug\net7.0\Ecomm.Service.Domain.runtimeconfig.json
+C:\Users\kanmishra\OneDrive - Microsoft\Training\ECommerce\Ecomm.Service.Domain\obj\Debug\net7.0\Ecomm.Service.Domain.genruntimeconfig.cache
+C:\Users\kanmishra\OneDrive - Microsoft\Training\ECommerce\Ecomm.Service.Domain\obj\Debug\net7.0\Ecomm.Service.Domain.csproj.AssemblyReference.cache
