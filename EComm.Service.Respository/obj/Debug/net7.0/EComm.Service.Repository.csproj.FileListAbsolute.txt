@@ -1,0 +1,17 @@
+C:\Users\kanmishra\OneDrive - Microsoft\Training\ECommerce\EComm.Service.Respository\bin\Debug\net7.0\EComm.Service.Repository.deps.json
+C:\Users\kanmishra\OneDrive - Microsoft\Training\ECommerce\EComm.Service.Respository\bin\Debug\net7.0\EComm.Service.Repository.dll
+C:\Users\kanmishra\OneDrive - Microsoft\Training\ECommerce\EComm.Service.Respository\bin\Debug\net7.0\EComm.Service.Repository.pdb
+C:\Users\kanmishra\OneDrive - Microsoft\Training\ECommerce\EComm.Service.Respository\bin\Debug\net7.0\EComm.Core.dto.dll
+C:\Users\kanmishra\OneDrive - Microsoft\Training\ECommerce\EComm.Service.Respository\bin\Debug\net7.0\Ecomm.Service.Domain.dll
+C:\Users\kanmishra\OneDrive - Microsoft\Training\ECommerce\EComm.Service.Respository\bin\Debug\net7.0\EComm.Core.dto.pdb
+C:\Users\kanmishra\OneDrive - Microsoft\Training\ECommerce\EComm.Service.Respository\bin\Debug\net7.0\Ecomm.Service.Domain.pdb
+C:\Users\kanmishra\OneDrive - Microsoft\Training\ECommerce\EComm.Service.Respository\obj\Debug\net7.0\EComm.Service.Repository.csproj.AssemblyReference.cache
+C:\Users\kanmishra\OneDrive - Microsoft\Training\ECommerce\EComm.Service.Respository\obj\Debug\net7.0\EComm.Service.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kanmishra\OneDrive - Microsoft\Training\ECommerce\EComm.Service.Respository\obj\Debug\net7.0\EComm.Service.Repository.AssemblyInfoInputs.cache
+C:\Users\kanmishra\OneDrive - Microsoft\Training\ECommerce\EComm.Service.Respository\obj\Debug\net7.0\EComm.Service.Repository.AssemblyInfo.cs
+C:\Users\kanmishra\OneDrive - Microsoft\Training\ECommerce\EComm.Service.Respository\obj\Debug\net7.0\EComm.Service.Repository.csproj.CoreCompileInputs.cache
+C:\Users\kanmishra\OneDrive - Microsoft\Training\ECommerce\EComm.Service.Respository\obj\Debug\net7.0\EComm.Service.Repository.csproj.CopyComplete
+C:\Users\kanmishra\OneDrive - Microsoft\Training\ECommerce\EComm.Service.Respository\obj\Debug\net7.0\EComm.Service.Repository.dll
+C:\Users\kanmishra\OneDrive - Microsoft\Training\ECommerce\EComm.Service.Respository\obj\Debug\net7.0\refint\EComm.Service.Repository.dll
+C:\Users\kanmishra\OneDrive - Microsoft\Training\ECommerce\EComm.Service.Respository\obj\Debug\net7.0\EComm.Service.Repository.pdb
+C:\Users\kanmishra\OneDrive - Microsoft\Training\ECommerce\EComm.Service.Respository\obj\Debug\net7.0\ref\EComm.Service.Repository.dll

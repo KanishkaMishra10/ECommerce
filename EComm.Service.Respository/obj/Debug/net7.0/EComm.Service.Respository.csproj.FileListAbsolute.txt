@@ -1,0 +1,5 @@
+C:\Users\kanmishra\OneDrive - Microsoft\Training\ECommerce\EComm.Service.Respository\obj\Debug\net7.0\EComm.Service.Respository.csproj.AssemblyReference.cache
+C:\Users\kanmishra\OneDrive - Microsoft\Training\ECommerce\EComm.Service.Respository\obj\Debug\net7.0\EComm.Service.Respository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kanmishra\OneDrive - Microsoft\Training\ECommerce\EComm.Service.Respository\obj\Debug\net7.0\EComm.Service.Respository.AssemblyInfoInputs.cache
+C:\Users\kanmishra\OneDrive - Microsoft\Training\ECommerce\EComm.Service.Respository\obj\Debug\net7.0\EComm.Service.Respository.AssemblyInfo.cs
+C:\Users\kanmishra\OneDrive - Microsoft\Training\ECommerce\EComm.Service.Respository\obj\Debug\net7.0\EComm.Service.Respository.csproj.CoreCompileInputs.cache
